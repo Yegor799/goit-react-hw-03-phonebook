@@ -1,0 +1,12 @@
+.ContactForm {
+  width: 300px;
+}
+
+.ContactForm__button {
+  display: block;
+  margin-top: 16px;
+}
+
+p {
+  margin: 5px 0px;
+}
